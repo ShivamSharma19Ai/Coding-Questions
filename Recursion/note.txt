@@ -1,0 +1,5 @@
+There are three steps in recursion Basic Condition
+
+1 Base Condition
+2 Smaller Problem
+3 Basic Condition
